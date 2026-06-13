@@ -1,4 +1,12 @@
+title: ePortfolio
+tagline: "An ePortfolio showcasing my 2026 capstone."
+description: "Hello, my name is Adia and this is an ePortfolio showcasing my 2026 capstone."
+url: "https://bond7736.github.io"
+baseurl: ""
+
+# Plugins and Theme Configuration
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 remote_theme: poole/hyde
