@@ -8,5 +8,7 @@ baseurl: ""
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
 
 remote_theme: poole/hyde
