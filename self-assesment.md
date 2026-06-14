@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Self-Assesment
-description: "When entering the field as a professional, analyzing one's strengths is critical.\
-This assesment does exactly that alongside the introduction of my technical capstone."
+description: "When entering the field as a professional, analyzing one's strengths is critical. This assesment does exactly that alongside the introduction of my technical capstone."
 ---
 
 # Professional Self-Assessment: The Culmination of My Work in the SNHU Computer Science Program 
