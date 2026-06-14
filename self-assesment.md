@@ -1,16 +1,13 @@
 ---
 layout: default
 title: Self-Assesment
+description: "When entering the field as a professional, analyzing one's strengths is critical.\
+This assesment does exactly that alongside the introduction of my technical capstone."
 ---
 
-# My Professional Self-Assesment
-
-When entering the field as a professional, analyzing one's strengths is critical.\
-This assesment does exactly that alongside the introduction of my technical capstone.
+# Professional Self-Assessment: The Culmination of My Work in the SNHU Computer Science Program 
 
 ---
-
-## Professional Self-Assessment: The Culmination of My Work in the SNHU Computer Science Program 
 
 My name is Adia Bond, and this introduction serves as a brief cumulative look at key competencies I’ve achieved throughout my journey at SNHU. My pursuit of a career as a Data Analyst will be based on the foundation outlined below, alongside my continued self-documented education. Before concluding, I’ll introduce the central artifact demonstrating my work as a graduating senior.
 
