@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Project Narratives
-description: "This section expands on the reasoning behind my chosen artifact,
-as well as the challenges and subsequent learning that followed as I implemented
-three primary categories of enhancements."
+description: "This section expands on the reasoning behind my chosen artifact, as well as the challenges and subsequent learning that followed as I implemented three primary categories of enhancements."
 ---
 
 # Project Narratives: The Development and Learning Process 
