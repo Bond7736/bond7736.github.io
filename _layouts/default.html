@@ -22,11 +22,7 @@
         {% endif %}
 
          <!-- Check if page has custom description before using _config.yml -->
-        {% if page.description %}
-          <meta name="description" content="{{ page.description }}">
-        {% else %}
-          <meta name="description" content="{{ site.description }}">
-        {% endif %}
+        <p>{{ page.description | default: site.description }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
