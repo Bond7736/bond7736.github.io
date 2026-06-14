@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capstone
-description: null
+description: ""
 ---
 
 # My Enhanced Capstone: Advising_Assistance_Program.cpp
