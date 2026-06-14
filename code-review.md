@@ -8,6 +8,6 @@ description: "Conducting a code review on my original artifact provided a baseli
 
 ---
 
-My full code review can be viewed [here.](https://). Below are images of the program's functionality.
+My full code review can be viewed [here.](https://) Below are images of the program's functionality.
 
 ## Program Functionality Gallery
