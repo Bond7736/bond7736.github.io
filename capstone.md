@@ -8,4 +8,4 @@ description: "My final capstone is an enhancement of Advising_Assistance_Program
 
 ---
 
-My full capstone can be accessed from my [GitHub repository.]([https://](https://github.com/Bond7736/bond7736.github.io)) As mentioned in my self-assesment, this portfolio represents a starting point for my future growth. Thank you for taking the time to review my portfolio.
+My full capstone can be accessed from my [GitHub repository.](https://](https://github.com/Bond7736/bond7736.github.io) As mentioned in my self-assesment, this portfolio represents a starting point for my future growth. Thank you for taking the time to review my portfolio.
