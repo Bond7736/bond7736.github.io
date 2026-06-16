@@ -14,8 +14,8 @@ My full code review can be viewed [here.](https://) Below are images of the prog
 
 ## Program Functionality Gallery
 
-![Screenshot of the original Advising_Assistance_Program.cpp running menu option one, loading file data.](/images/Advising-old-1.png)
+![Screenshot of the original Advising_Assistance_Program.cpp running menu option one, loading file data.](/assets/images/Advising-old-1.png)
 
-![Screenshot of the original Advising_Assistance_Program.cpp running menu option two, printing courses alphanumerically.](/images/Advising-old-2.png)
+![Screenshot of the original Advising_Assistance_Program.cpp running menu option two, printing courses alphanumerically.](/assets/images/Advising-old-2.png)
 
-![Screenshot of the original Advising_Assistance_Program.cpp running menu option three, printing course titles and prerequisites.](/images/Advising-old-3.png)
+![Screenshot of the original Advising_Assistance_Program.cpp running menu option three, printing course titles and prerequisites.](/assets/images/Advising-old-3.png)
