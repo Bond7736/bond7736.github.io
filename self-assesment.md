@@ -10,6 +10,8 @@ description: "When entering the field as a professional, analyzing one's strengt
 
 My name is Adia Bond, and this introduction serves as a brief cumulative look at key competencies I’ve achieved throughout my journey at SNHU. My pursuit of a career as a Data Analyst will be based on the foundation outlined below, alongside my continued self-documented education. Before concluding, I’ll introduce the central artifact demonstrating my work as a graduating senior.
 
+---
+
 ## My Growth, and Gained Knowledge Scope
 
 My work in the Computer Science Program at SNHU has taken me from a baseline of no knowledge, to a wide breadth of understanding across core disciplines. While I discovered my affinity for data analysis late into my software engineering concentration, the skillset I’ve built will undoubtedly be advantageous. Speaking generally, I’ve had experience conceptualizing, designing, building, testing, and iterating on software from beginning to end with best practices and security at the forefront of concerns. Whilst learning of and practicing these development stages, I’ve gained a foundation in multiple domains as mentioned earlier. Some include quality assurance, embedded systems, machine learning, and mobile architecture development. 
