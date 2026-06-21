@@ -40,6 +40,8 @@ My full code review can be viewed [here.](https://) Below are images of the prog
 
 ![Screenshot of the updated student_data table.](/assets/images/Advising-new-8.png)
 
+![Screenshot of MySQL TDE component encryption.](/assets/images/Advising-new-9.png)
+
 
 
 
